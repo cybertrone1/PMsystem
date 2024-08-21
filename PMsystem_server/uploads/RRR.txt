@@ -1,0 +1,3 @@
+to get id in js we use document.getElementById()
+to get class in js we use document.getElementByClassName()
+to get tagname in js we use document.getElementByTagName()
